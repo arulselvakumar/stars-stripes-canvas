@@ -1,3 +1,4 @@
+/* Grill */
 .grill_scene {
     position: relative;
     width: 600px;
@@ -6,31 +7,77 @@
 #grill {
     position: absolute;
     left: 800px;
-    top: 250px;
-    width: 500px;
+    top: 300px;
+    width: 400px;
 }
 #smoke {
     position: absolute;
     left: 950px;
-    top: 100px;
-    width: 250px;
+    top: 250px;
+    width: 150px;
     z-index: 2;
 }
 
-/* .games {
-    position: relative;
+/* Grass*/
+.grass {
+    position: absolute;
     top: 100px;
-
-    width: 20px;
-    height: 20px;
-} */
+}
+#flag {
+    position: relative;
+    width: 200px;
+    top: -25px;
+    left: 700px;
+}
 
 #cornhole {
     position: relative;
-    top: 280px;
-    left: 400px;
-    width: 100px;
+    top: 30px;
+    left: -150px;
+    width: 80px;
 
 }
+#dog {
+    position: relative;
+    top: 120px;
+    width: 140px;
+}
+#decor1 {
+    position: relative;
+    top: 85px;
+    left: 370px;
+    width: 160px;
+}
 
+#decor2 {
+    position: relative;
+    top: 20px;
+    left: 600px;
+    width: 75px;
+}
 
+/* Sky */
+.sky{ 
+    position: relative;
+    top: 40px;
+
+}
+#firefly1 {
+    position: relative;
+    top: 100px;
+    left: 20px;
+    width: 40px;
+}
+
+#firefly2 {
+    position: relative;
+    top: 50px;
+    left: 400px;
+    width: 40px;
+}
+#firefly3 {
+    position: relative;
+    top: 80px;
+    left: 900px;
+    width: 40px;
+}
