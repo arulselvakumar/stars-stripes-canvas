@@ -27,7 +27,7 @@
 #flag {
     position: relative;
     width: 200px;
-    top: 70px;
+    top: 170px;
     left: -200px;
     animation: circle 2.4s ease-in-out infinite; will-change: transform, opacity;
 }
@@ -37,58 +37,58 @@
 
 #cornhole {
     position: relative;
-    top: 170px;
+    top: 300px;
     left: -200px;
     width: 100px;
 
 }
 #dog {
     position: relative;
-    top: 400px;
-    left: 300px;
+    top: 500px;
+    left: 200px;
     width: 100px;
 }
 
 #family1 {
     position: relative;
-    top: 70px;
+    top: 170px;
     width: 100px;
 }
 #family2 {
     position: relative;
-    top: 70px;
+    top: 170px;
     width: 100px;
 }
 #decor1 {
     position: relative;
-    top: 180px;
+    top: 280px;
     left: -210px;
     width: 160px;
 }
 
 #decor2 {
     position: relative;
-    top: 120px;
+    top: 220px;
     left: 12px;
     width: 75px;
 }
 
 #sprinkler {
     position: relative;
-    top: 200px;
+    top: 300px;
     left: -150px;
     width: 100px;
 }
 #child1 {
     position: relative;
-    top: 150px;
+    top: 250px;
     left: 50px;
     width: 100px;
 
 }
 #child2 {
     position: relative;
-    top: 150px;
+    top: 250px;
     left: 2px;
     width: 100px;
 }
@@ -96,25 +96,25 @@
 /* Sky */
 .sky{ 
     position: relative;
-    top: 40px;
+    top: 140px;
 
 }
 #firefly1 {
     position: relative;
-    top: 100px;
+    top: -10px;
     left: 20px;
     width: 40px;
 }
 
 #firefly2 {
     position: relative;
-    top: 50px;
+    top: 20px;
     left: 300px;
     width: 40px;
 }
 #firefly3 {
     position: relative;
-    top: 80px;
+    top: 20px;
     left: 600px;
     width: 40px;
 }
